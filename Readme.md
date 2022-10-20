@@ -28,3 +28,8 @@ Step5
 </center>
 <img align="center" src="https://i.imgur.com/kbg6pTU.jpeg"
 <pr>Delete all the Logo file and add yours:)(Always remember logo should in png format and named as logo,if it not named as logo.png.your logo not appear:/)</pr>
+<center>
+Step6
+</center>
+<img align="center" src="https://i.imgur.com/5Fb0U9w.jpeg"
+<pr>Now you can go to settings on top right corner and select pages option as shown in image</pr>
