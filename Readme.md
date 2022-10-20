@@ -33,3 +33,8 @@ Step6
 </center>
 <img align="center" src="https://i.imgur.com/5Fb0U9w.jpeg"
 <pr>Now you can go to settings on top right corner and select pages option as shown in image</pr>
+<center>
+Step7
+</center>
+<img align="center" src="https://i.imgur.com/Hb8dBKI.mp4"<pr>Now you can go to settings on top right corner and select pages option as shown in image</pr>
+
