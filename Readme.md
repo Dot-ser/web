@@ -1,4 +1,4 @@
 - CHANGE USER NAME[Here](https://github.com/Dot-ser/web/blob/4d2ae62f63924b21cfe87b081500699ace99c5c8/api/index.html#L465)
-- UPDATE SOCIAL MEDIA Link[Here]()
+- UPDATE SOCIAL MEDIA Link[Here](https://github.com/Dot-ser/web/blob/97442720d20f6a3707107af181ecde52359cd298/api/aboutme/Socialmedia/index.html#L151)
 - UPDATE YOUR HOBBY [Here]()
 - UPDATE YOUR PERSONAL INFO[Here]()
