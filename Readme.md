@@ -35,8 +35,8 @@ Step6</h1>
 <pr>Now you can go to settings on top right corner and select pages option as shown in image</pr>
 <center><h1>
 Step7</h1>
-</center>
-<img align="center" src="https://i.imgur.com/Hb8dBKI.mp4"<pr>Chance the branch to main and save</pr>
+</center><img src="https://media.tenor.com/images/e15cb1453a09e25bab41116d930329bf/tenor" 
+<pr>Chance the branch to main and save</pr>
 <h1>
 Step8</h1>
 </center>
