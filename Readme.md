@@ -23,3 +23,8 @@ Step4
 </center>
 <img align="center" src="https://i.imgur.com/PCdWeMV.jpeg"
 <pr>Edit all and add your url:)</pr>
+<center>
+Step5
+</center>
+<img align="center" src="https://i.imgur.com/kbg6pTU.jpeg"
+<pr>Delete all the Logo file and add yours:)(Always remember logo should in png format and named as logo,if it not named as logo.png.your logo not appear:/)</pr>
