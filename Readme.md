@@ -10,5 +10,10 @@ Step2
 <br>
 <img align="center" src="https://i.imgur.com/vPWniN3.jpeg"
 <pr>Change github user name to your github name</pr>
-
-
+<br>
+<center>
+Step3
+</center>
+<br>
+<img align="center" src="https://i.imgur.com/gWZIiSZ.jpeg"
+<pr>Edit all index file According to you want:)</pr>
