@@ -9,7 +9,8 @@ Step2</h1>
 </center>
 <br>
 <img align="center" src="https://i.imgur.com/vPWniN3.jpeg"
-<pr>Change github user name to your github name</pr>
+<pr>Change github user name to your github name</pr><Br>
+Web/Api/index.html
 <br>
 <center><h1>
 Step3</h1>
@@ -22,7 +23,10 @@ Step3</h1>
 Step4</h1>
 </center>
 <img align="center" src="https://i.imgur.com/PCdWeMV.jpeg"
-<pr>Edit all and add your url:)</pr>
+<pr>
+<Br>
+
+Edit all and add your url:)</pr>web/api/aboutme/Socialmedia
 <center><h1>
 Step5</h1>
 </center>
