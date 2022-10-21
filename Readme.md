@@ -1,6 +1,6 @@
 <center><h1>Step1</h1></center>
 <h1>Cilck here👇🏻😁</h1>
-<a href="https://github.com/Dot-ser/web/fork"><img align="center" src="https://i.imgur.com/lIZhws3.jpeg" alt="Fork and deploy" height="112" width="300" /></a>
+<a href="https://github.com/Dot-ser/web/fork"><img align="center" src="https://i.imgur.com/OtENWSE.jpeg" alt="Fork and deploy" height="112" width="300" /></a>
 <div>
 <br>
 <br>
