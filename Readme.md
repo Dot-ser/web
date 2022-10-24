@@ -39,7 +39,7 @@ Step6</h1>
 <pr>Now you can go to settings on top right corner and select pages option as shown in image</pr>
 <center><h1>
 Step7</h1>
-</center><img src="https://tenor.com/bZhpi.gif" 
+</center><img src="https://i.imgur.com/Rrq9ufW.gif" 
 <pr>Chance the branch to main and save</pr>
 <h1>
 Step8</h1>
